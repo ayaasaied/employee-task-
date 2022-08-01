@@ -1,0 +1,45 @@
+F:\1-MVC PROJECT\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Services.deps.json
+F:\1-MVC PROJECT\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Services\bin\Debug\net5.0\ref\Admin.Services.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Core.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Core.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.AssemblyInfo.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.csproj.CopyComplete
+F:\1-MVC PROJECT\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Services\obj\Debug\net5.0\ref\Admin.Services.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Services.deps.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\bin\Debug\net5.0\ref\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Core.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Core.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.AssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.csproj.CopyComplete
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\obj\Debug\net5.0\ref\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Services.deps.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\bin\Debug\net5.0\ref\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Core.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\bin\Debug\net5.0\Admin.Core.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.AssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.csproj.CopyComplete
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\obj\Debug\net5.0\ref\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Services\obj\Debug\net5.0\Admin.Services.pdb

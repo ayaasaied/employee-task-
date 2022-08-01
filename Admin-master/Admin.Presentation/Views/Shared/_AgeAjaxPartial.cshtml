@@ -1,0 +1,32 @@
+﻿
+ <script>
+
+   function getage(){
+     console.log("getAge Called")
+        let DateOfBirth = $("#DateOfBirth").val();
+        console.log(DateOfBirth.substr(0,4))
+        
+      $.ajax({
+        
+          url: "/Validetor/validatDate?_date="+DateOfBirth, 
+          method:'get',
+          contentType: "application/json; charset=utf-8",            
+          success: function(result){
+              console.log(result)
+              if(result){
+                  var userYear = DateOfBirth.substr(0,4) ;
+                  var currentYear = new Date().getFullYear();
+                  $("#Age").val(currentYear - userYear);
+              }
+     }});}
+
+
+  </script>
+
+
+
+
+
+
+
+

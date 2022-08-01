@@ -1,0 +1,80 @@
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.deps.json
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.runtimeconfig.json
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.runtimeconfig.dev.json
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\ref\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Core.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Core.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.AssemblyInfo.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.CopyComplete
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\ref\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.genruntimeconfig.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.deps.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.runtimeconfig.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.runtimeconfig.dev.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\ref\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Core.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Core.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.AssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.CopyComplete
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\ref\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.genruntimeconfig.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.deps.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.runtimeconfig.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.runtimeconfig.dev.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\ref\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Core.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Core.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.AssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.CopyComplete
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\ref\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.genruntimeconfig.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.deps.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.runtimeconfig.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.runtimeconfig.dev.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\ref\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Infrastructure.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Core.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Core.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\bin\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.AssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.csproj.CopyComplete
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\ref\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\n\Admin-master\Admin.Infrastructure\obj\Debug\net5.0\Admin.Infrastructure.genruntimeconfig.cache

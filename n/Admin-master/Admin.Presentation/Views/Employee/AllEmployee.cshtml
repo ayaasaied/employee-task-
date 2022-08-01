@@ -1,0 +1,62 @@
+﻿@using Admin.Core.ViewModel
+@model List<EmployeeVM>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">Name</th>
+      <th scope="col"> National Id</th>
+      <th scope="col">Birth of Date</th>
+      <th scope="col">Account</th>
+      <th scope="col">line of business</th>
+       <th scope="col"> Language </th>
+
+       <th scope="col">Language Level</th>
+
+       <th scope="col">update</th>
+      <th scope="col">delete</th>
+    </tr>
+  </thead>
+  <tbody>
+
+
+      @foreach(var employee in Model)
+        {
+          <tr>
+      <td>@employee.Name</td>
+        <td >@employee.NationalId </td>
+      <td>@employee.DateOfBirth</td>
+
+      <td>@employee.Account.Name</td>
+      <td>@employee.LineofBusiness.Name</td>
+      <td>@employee.Language.Name</td>
+@*       @foreach(var item in  @employee.Languagelevels)
+                {
+                   <td id="@employee.Id">@item.Name </td> 
+                   
+                }*@
+                
+
+     
+   
+
+
+      <td> <a class="btn btn-warning btn-lg btn-block" asp-action="Edit" asp-route-id="@employee.Id">  Edit    </a></td>
+      <td> <a class="btn btn-warning btn-lg btn-block" asp-action="Delete" asp-route-id="@employee.Id"> Delete  </a></td>
+
+    </tr>  
+        }
+        
+    
+  </tbody>
+</table>
+
+
+@section Scripts{
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial"); };
+}
+
+
+
+
+

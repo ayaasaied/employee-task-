@@ -1,0 +1,373 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Presentation\\Admin.Presentation.csproj": {}
+  },
+  "projects": {
+    "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Core\\Admin.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Core\\Admin.Core.csproj",
+        "projectName": "Admin.Core",
+        "projectPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Core\\Admin.Core.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Infrastructure\\Admin.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Infrastructure\\Admin.Infrastructure.csproj",
+        "projectName": "Admin.Infrastructure",
+        "projectPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Infrastructure\\Admin.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Core\\Admin.Core.csproj": {
+                "projectPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Core\\Admin.Core.csproj"
+              },
+              "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Services\\Admin.Services.csproj": {
+                "projectPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Services\\Admin.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Presentation\\Admin.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Presentation\\Admin.Presentation.csproj",
+        "projectName": "Admin.Presentation",
+        "projectPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Presentation\\Admin.Presentation.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Presentation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Infrastructure\\Admin.Infrastructure.csproj": {
+                "projectPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Infrastructure\\Admin.Infrastructure.csproj"
+              },
+              "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Services\\Admin.Services.csproj": {
+                "projectPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Services\\Admin.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.13, 5.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Services\\Admin.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Services\\Admin.Services.csproj",
+        "projectName": "Admin.Services",
+        "projectPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Services\\Admin.Services.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Core\\Admin.Core.csproj": {
+                "projectPath": "F:\\1-MVC PROJECT\\Xceed-Task aya saied mohamed\\nnnew master\\n\\Admin-master\\Admin.Core\\Admin.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

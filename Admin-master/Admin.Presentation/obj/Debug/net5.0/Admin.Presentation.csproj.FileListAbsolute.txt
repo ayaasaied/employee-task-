@@ -1,0 +1,536 @@
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\appsettings.Development.json
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\appsettings.json
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.exe
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.deps.json
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.runtimeconfig.json
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.runtimeconfig.dev.json
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ref\Admin.Presentation.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.Views.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.Views.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\FluentValidation.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Humanizer.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Core.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Infrastructure.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Core.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.AssemblyInfo.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.MvcApplicationPartsAssemblyInfo.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorAssemblyInfo.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorAssemblyInfo.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\scopedcss\bundle\Admin.Presentation.styles.css
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\staticwebassets\Admin.Presentation.StaticWebAssets.Manifest.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.TagHelpers.input.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.TagHelpers.output.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorCoreGenerate.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_MyLayout.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorTargetAssemblyInfo.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorTargetAssemblyInfo.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.Views.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.csproj.CopyComplete
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\ref\Admin.Presentation.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.pdb
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.genruntimeconfig.cache
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ClosedXML.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ExcelNumberFormat.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.IO.Packaging.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.MvcApplicationPartsAssemblyInfo.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\AllEmployee.cshtml.g.cs
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\1-MVC PROJECT\Admin-master\Admin.Presentation\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.AssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.MvcApplicationPartsAssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.MvcApplicationPartsAssemblyInfo.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorAssemblyInfo.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorAssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\appsettings.Development.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\appsettings.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.exe
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.deps.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.runtimeconfig.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.runtimeconfig.dev.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ref\Admin.Presentation.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.Views.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.Views.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\AutoMapper.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Castle.Core.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ClosedXML.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ExcelNumberFormat.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\FluentValidation.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Humanizer.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.IO.Packaging.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Core.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Infrastructure.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Core.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\scopedcss\bundle\Admin.Presentation.styles.css
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\staticwebassets\Admin.Presentation.StaticWebAssets.Manifest.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.TagHelpers.input.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.TagHelpers.output.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorCoreGenerate.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\AllEmployee.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\UseDataArray.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_MyLayout.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorTargetAssemblyInfo.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorTargetAssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.Views.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.csproj.CopyComplete
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\ref\Admin.Presentation.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.genruntimeconfig.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\appsettings.Development.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\appsettings.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.exe
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.deps.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.runtimeconfig.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.runtimeconfig.dev.json
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ref\Admin.Presentation.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.Views.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Presentation.Views.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\AutoMapper.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Castle.Core.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ClosedXML.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\DocumentFormat.OpenXml.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ExcelNumberFormat.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\FluentValidation.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Humanizer.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.Convention.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.Hosting.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.Runtime.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Composition.TypedParts.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.IO.Packaging.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Runtime.Caching.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Core.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Services.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Infrastructure.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Services.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Admin.Core.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.AssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.MvcApplicationPartsAssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.MvcApplicationPartsAssemblyInfo.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorAssemblyInfo.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorAssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\scopedcss\bundle\Admin.Presentation.styles.css
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\staticwebassets\Admin.Presentation.StaticWebAssets.Manifest.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.TagHelpers.input.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.TagHelpers.output.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorCoreGenerate.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\AllEmployee.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\UseDataArray.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_MyLayout.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorTargetAssemblyInfo.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.RazorTargetAssemblyInfo.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.Views.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.csproj.CopyComplete
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\ref\Admin.Presentation.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.pdb
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Admin.Presentation.genruntimeconfig.cache
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Employee\DashBoard.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_AgeAjaxPartial.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Web.Mvc.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Web.Razor.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Web.Helpers.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\System.Web.WebPages.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_AccountLineAjaxPartial.cshtml.g.cs
+F:\1-MVC PROJECT\Xceed-Task aya saied mohamed\nnnew master\Admin-master\Admin.Presentation\obj\Debug\net5.0\Razor\Views\Shared\_LanguageLevelpartial.cshtml.g.cs

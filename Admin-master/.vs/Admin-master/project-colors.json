@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7dac5122-a9a0-43e5-89fc-004e90961f40": {
+      "ProjectGuid": "7dac5122-a9a0-43e5-89fc-004e90961f40",
+      "DisplayName": "Admin.Presentation",
+      "ColorIndex": 0
+    },
+    "0ddeb9ff-98b0-44a9-852e-6cba1a3c07d2": {
+      "ProjectGuid": "0ddeb9ff-98b0-44a9-852e-6cba1a3c07d2",
+      "DisplayName": "Admin.Infrastructure",
+      "ColorIndex": 1
+    },
+    "173aa1fe-3bea-46b2-9812-9fb5c0ea21c9": {
+      "ProjectGuid": "173aa1fe-3bea-46b2-9812-9fb5c0ea21c9",
+      "DisplayName": "Admin.Core",
+      "ColorIndex": 2
+    },
+    "d789f124-513a-4ec0-ad8d-a9bec74c2c64": {
+      "ProjectGuid": "d789f124-513a-4ec0-ad8d-a9bec74c2c64",
+      "DisplayName": "Admin.Services",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

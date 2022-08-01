@@ -1,0 +1,39 @@
+﻿<script>
+    $(document).ready(function () {
+          $("#AccountId").change(function () {
+              var lineid=document.getElementById("AccountId").value;
+              var sid=$("#AccountId").val();
+              $("#LineofBusiness").empty();
+
+              $.ajax({
+                 
+                 url: '@Url.Action("GetLineOfBussinesId","Employee")',
+                 type:'Get',
+                 dataType:'JSON',
+                 data:{"Lineofid":lineid},
+                 
+                  success: function (resulte) {
+                    console.log("hi1",resulte)
+ 
+
+                   $("#LineofBusiness").append('<option value="' + "0" + '">' + "Select Line of Business" + '</option>');
+
+                     var obj =resulte["$values"];
+                     console.log(obj);
+                     
+                     for (var item in obj){
+                         console.log("item"+obj[item])
+                          $("#LineofBusiness").append('<option value="' + obj[item].id + '">' + obj[item].name + '</option>');
+
+                         }
+
+                  },
+                  error: function (ex) {
+                      console.log(ex);
+                      alert('Failed to retrieve states.' + ex);
+                  }
+              });
+              
+          })
+      });
+  </script>

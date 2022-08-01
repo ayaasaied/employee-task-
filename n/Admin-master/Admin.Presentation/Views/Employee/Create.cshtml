@@ -1,0 +1,154 @@
+﻿@using Admin.Core.ViewModel
+
+@model EmployeeVM
+@{
+    Layout ="_MyLayout";
+}
+@{
+    SelectList AccountList = new SelectList(ViewBag.Account,"Id","Name");
+    SelectList languagesList = new SelectList(ViewBag.languages,"Id","Name");
+    SelectList languagelevelsList = new SelectList(ViewBag.languagelevels,"Id","Name");
+    SelectList lineofBusinessesList = new SelectList(ViewBag.lineofBusinesses,"Id","Name");
+  
+}
+
+<section class="vh-100">
+  <div class="container py-5 h-100">
+    <div class="row d-flex justify-content-center align-items-center h-100">
+      <div class="col col-xl-10">
+        <div class="card" style="border-radius: 1rem;">
+          <div class="row g-0">
+            <div class="col-md-6 col-lg-5 d-none d-md-block">
+              <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/img1.webp"
+                alt="login form" class="img-fluid" style="border-radius: 1rem 0 0 1rem;" />
+            </div>
+            <div class="col-md-6 col-lg-7 d-flex align-items-center">
+              <div class="card-body p-4 p-lg-5 text-black">
+
+               <form method="post" asp-action="Create" asp-controller="Employee">
+
+                  <div class="d-flex align-items-center mb-1 pb-1">
+                    <i class="fas fa-cubes fa-2x me-3" style="color: #ffe100;"></i>
+                    <span class="h1 fw-bold t-wa mb-0"> Register </span>
+                  </div>
+
+                 <div class="form-outline mb-2">
+                     <label asp-for="Name" class="form-label" for="">Name </label>
+                     <input asp-for="Name" type="text" id="name" class="form-control form-control-lg" />
+                     <span asp-validation-for="Name" class="text-danger"></span>
+                </div>
+
+                <div  class="form-outline mb-2">
+                    <label asp-for="NationalId" class="form-label" for="">National ID </label>
+                    <input asp-for="NationalId" type="text" id="name" class="form-control form-control-lg" />
+                    <span asp-validation-for="NationalId" class="text-danger"></span>
+                </div>
+
+                  <div  onfocusout="getage()" class="form-outline mb-2">       
+                    <label  asp-for="DateOfBirth" class="form-label" for="">Date Of Birth </label>
+                    <input asp-for="DateOfBirth" type="date" class="form-control form-control-lg" />
+                    <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+                  </div>
+
+                   <div id="div1" class="form-outline mb-2">       
+                      <label   class="form-label" for="">Age  </label>
+                      <input id="Age" disabled type="text"  class="form-control form-control-lg" />
+@*                      <span asp-validation-for="Age" class="text-danger"></span>
+*@                  </div>
+                   
+
+
+                <div class="form-outline mb-2">
+                    <label asp-for="AccountId"></label>
+                      <select    asp-for="AccountId" asp-items="@AccountList" class="form-control">
+                          <option value="0"> --Select Account --</option>  
+                      </select>
+                    <span asp-validation-for="AccountId" class="text-danger"></span>
+                </div>
+
+                   <div  class="form-outline mb-2">
+                    <label asp-for="LineofBusinessId"></label>
+                      <select id="LineofBusiness"  asp-for="LineofBusinessId" asp-items="@lineofBusinessesList" class="form-control">
+                          <option value="0"> --Select line of bsiness --</option>  
+                      </select>
+                    <span asp-validation-for="LineofBusinessId" class="text-danger"></span>
+                </div>
+
+
+
+                 <div class="form-outline mb-2">
+                    <label asp-for="langugeId"></label>
+                      <select asp-for="langugeId" asp-items="@languagesList" class="form-control">
+                          <option value="0"> --Select Language --</option>  
+                      </select>
+                    <span asp-validation-for="langugeId" class="text-danger"></span>
+                </div>
+
+                <div class="form-outline mb-2">
+                    <label asp-for="langaugeslevelids"></label>
+                      <select asp-for="langaugeslevelids" asp-items="@languagelevelsList" class="form-control">
+                          <option value="0"> --Select Language level --</option>  
+                      </select>
+                   </div>
+
+                    @*
+                          <table>
+                       @foreach (var item in languagelevelsList)
+                          {
+                               <tr>
+                                   <td>
+                                       <input  id="LanguagelevelId" for="@item.Value"  type="checkbox" name="LanguagelevelId" 
+                                          value="@item.Value" checked="@item.Selected"/>
+                                   </td>
+                                   <td>
+                                       <label for="@item.Value">@item.Text</label>
+                                   </td>
+                               </tr>
+                           }
+                       </table>*@
+
+
+
+
+
+
+
+
+
+
+
+
+
+@*                    <span asp-validation-for="LanguagelevelId" class="text-danger"></span>
+*@
+                  <div class="pt-1 mb-2">
+                    <input class="btn btn-warning btn-lg btn-block" value="register" type="submit"> 
+                  </div>
+
+                </form>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+@section Scripts{
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial"); };
+    @{await Html.RenderPartialAsync("_AgeAjaxPartial");};
+    @{await Html.RenderPartialAsync("_LanguageLevelpartial");};
+    @{await Html.RenderPartialAsync("_AccountLineAjaxPartial");};
+
+
+
+  
+}
+
+
+
+
+
+

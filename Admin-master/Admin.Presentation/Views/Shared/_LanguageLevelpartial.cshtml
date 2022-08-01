@@ -1,0 +1,40 @@
+﻿<script>
+    $(document).ready(function () {
+          $("#langugeId").change(function () {
+              var lineid=document.getElementById("langugeId").value;
+              var sid=$("#langugeId").val();
+              $("#langaugeslevelids").empty();
+
+              $.ajax({
+                 
+                 url: '@Url.Action("LangugelevelId","Employee")',
+                 type:'Get',
+                 dataType:'JSON',
+                 data:{"Languofid":lineid},
+                 
+                  success: function (resulte) {
+                    console.log("hi1",resulte)
+
+
+                   $("#langaugeslevelids").append('<option value="' + "0" + '">' + "Select Line of Business" + '</option>');
+
+                     var obj =resulte["$values"];
+                     console.log(obj);
+                     
+                     for (var item in obj){
+                         console.log("item"+obj[item])
+                          $("#langaugeslevelids").append('<option value="' + obj[item].id + '">' + obj[item].name + '</option>');
+
+                         }
+
+                     
+                  },
+                  error: function (ex) {
+                      console.log(ex);
+                      alert('Failed to retrieve data try again.' + ex);
+                  }
+              });
+              
+          })
+      });
+  </script>
